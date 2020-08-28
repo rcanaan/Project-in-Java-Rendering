@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6d3db65-5d37-4e49-b8a1-3b98d2410e01" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1eEczbwFSVh55qCom5hOAjIo3Z6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.ReflectionRefractionTest.myPictureForSecondProject">
+    <configuration name="ReflectionRefractionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="step9-FinalProjectPart2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unittests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="unittests" />
+      <option name="MAIN_CLASS_NAME" value="unittests.ReflectionRefractionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectionRefractionTest.myPictureForProject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="step9-FinalProjectPart2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unittests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="unittests" />
+      <option name="MAIN_CLASS_NAME" value="unittests.ReflectionRefractionTest" />
+      <option name="METHOD_NAME" value="myPictureForProject" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectionRefractionTest.myPictureForSecondProject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="step9-FinalProjectPart2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unittests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="unittests" />
+      <option name="MAIN_CLASS_NAME" value="unittests.ReflectionRefractionTest" />
+      <option name="METHOD_NAME" value="myPictureForSecondProject" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectionRefractionTest.myPictureForsecondprojrct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="step9-FinalProjectPart2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unittests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="unittests" />
+      <option name="MAIN_CLASS_NAME" value="unittests.ReflectionRefractionTest" />
+      <option name="METHOD_NAME" value="myPictureForsecondprojrct" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VectorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="step9-FinalProjectPart2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unittests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="unittests" />
+      <option name="MAIN_CLASS_NAME" value="unittests.VectorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ReflectionRefractionTest.myPictureForSecondProject" />
+        <item itemvalue="JUnit.ReflectionRefractionTest.myPictureForsecondprojrct" />
+        <item itemvalue="JUnit.ReflectionRefractionTest" />
+        <item itemvalue="JUnit.ReflectionRefractionTest.myPictureForProject" />
+        <item itemvalue="JUnit.VectorTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6d3db65-5d37-4e49-b8a1-3b98d2410e01" name="Default Changelist" comment="" />
+      <created>1593890455844</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593890455844</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="402" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1593892542097">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="402" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1593892542097" />
+    <state x="357" y="63" width="703" height="555" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1593978747308">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="357" y="63" width="703" height="555" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680@0.0.1280.680" timestamp="1593978747307" />
+    <state x="371" y="43" key="FileChooserDialogImpl" timestamp="1593978745805">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="43" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1593978745805" />
+    <state width="1225" height="3" key="GridCell.Tab.0.bottom" timestamp="1593979290611">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1225" height="3" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1593979290611" />
+    <state width="1225" height="3" key="GridCell.Tab.0.center" timestamp="1593979290611">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1225" height="3" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1593979290611" />
+    <state width="1225" height="3" key="GridCell.Tab.0.left" timestamp="1593979290611">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1225" height="3" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1593979290611" />
+    <state width="1225" height="3" key="GridCell.Tab.0.right" timestamp="1593979290611">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1225" height="3" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1593979290611" />
+    <state x="287" y="129" key="com.intellij.ide.util.TipDialog" timestamp="1595589660755">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="287" y="129" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1595589660755" />
+    <state x="291" y="227" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1593890931223">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="291" y="227" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680@0.0.1280.680" timestamp="1593890931223" />
+    <state x="527" y="0" width="599" height="588" key="dock-window-1" timestamp="1593893302098">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="527" y="0" width="599" height="588" key="dock-window-1/0.0.1280.680@0.0.1280.680" timestamp="1593893302098" />
+    <state x="695" y="0" width="599" height="588" key="dock-window-2" timestamp="1593893302098">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="695" y="0" width="599" height="588" key="dock-window-2/0.0.1280.680@0.0.1280.680" timestamp="1593893302098" />
+    <state x="-7" y="0" width="653" height="687" key="dock-window-3" timestamp="1593893302098">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="-7" y="0" width="653" height="687" key="dock-window-3/0.0.1280.680@0.0.1280.680" timestamp="1593893302098" />
+    <state x="10" y="15" width="653" height="687" key="dock-window-4" timestamp="1593893444038">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="10" y="15" width="653" height="687" key="dock-window-4/0.0.1280.680@0.0.1280.680" timestamp="1593893444038" />
+    <state x="433" y="0" width="653" height="687" maximized="true" key="dock-window-5" timestamp="1593899145875">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="433" y="0" width="653" height="687" maximized="true" key="dock-window-5/0.0.1280.680@0.0.1280.680" timestamp="1593899145875" />
+  </component>
+</project>
